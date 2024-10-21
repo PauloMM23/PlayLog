@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlayLog</string>
+    <string-array name="status_options">
+        <item>Zerei</item>
+        <item>Jogando</item>
+        <item>Não joguei</item>
+        <item>Comprar</item>
+    </string-array>
+</resources>
